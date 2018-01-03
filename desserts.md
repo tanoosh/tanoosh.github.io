@@ -1,3 +1,3 @@
-# desserts
+# Breakfast
 
-[apple cinnamon pancakes](https://www.lecremedelacrumb.com/apple-cinnamon-pancakes)
+[Apple Cinnamon Pancakes](https://www.lecremedelacrumb.com/apple-cinnamon-pancakes)
