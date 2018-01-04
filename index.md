@@ -3,4 +3,5 @@
 
 ##Recipes
 [recipes] (/recipes.md)
-[trial] (https://google.com)
+[trial] (http://google.com)
+[still trying](http://reddit.com)
