@@ -1,5 +1,5 @@
-#Recipes
+# Recipes
 [breakfast](/breakfast.md)
-[lunch/dinner](/lunchdinner.md)
+[lunch and dinner](/lunchdinner.md)
 [baking](/baking.md)
-[other](/other.md)
+[other](/other.md) 
