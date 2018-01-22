@@ -1,7 +1,8 @@
 # lunch and dinner
 
 ## simple
-Tofu and Broccoli Pan Fry (4 servings)
+* [Tofu and Broccoli](/tofuandbroccoli.md )
+*  Tofu and Broccoli Pan Fry (4 servings)
 * 3/4-1 onion diced or thin slices
 * 1-2 cloves of garlic, minced
 * a full head of broccoli *make sure to cut off **most** of the stem for small florets*
