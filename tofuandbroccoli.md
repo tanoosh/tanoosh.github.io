@@ -1,4 +1,4 @@
-Tofu and Broccoli Bowl (4 servings)
+#  Tofu and Broccoli Bowl (4 servings)
 
 Quick and easy dish with few ingrediants. Tastes pretty good.
 Ingredients:
