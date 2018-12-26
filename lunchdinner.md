@@ -4,6 +4,7 @@
 
 ## sort by
 [time/difficulty](tanoosh.github.io/sbdifficulty)
+[type](tanoosh.github.io/sbtype)
 
 
 ## all
