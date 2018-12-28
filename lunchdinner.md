@@ -8,8 +8,6 @@
 
 
 ## all
-* [Moroccan Sweet Potato Salad](
-http://thefirstmess.com/2015/07/01/moroccan-sweet-potato-sunshine-salad/?utm_source=feedburner&utm_medium=email&utm_campaign=Feed:+TheFirstMess+(The+First+Mess))
 * [Avocado Pasta](https://damndelicious.net/2014/06/20/avocado-pasta/)
 * [Asian Garlic Noodles](https://damndelicious.net/2015/12/27/asian-garlic-noodles/)
 * [Buddha Bowl in a Jar](https://www.delish.com/cooking/recipe-ideas/recipes/a51552/buddha-in-a-jar-recipe/)
@@ -31,12 +29,14 @@ http://thefirstmess.com/2015/07/01/moroccan-sweet-potato-sunshine-salad/?utm_sou
 * [Quinoa Tabbouleh Salad](https://www.epicurious.com/recipes/food/views/quinoa-tabbouleh-395939)
 * [Rainbow Pad Thai](https://pinchofyum.com/rainbow-vegetarian-pad-thai-with-peanuts-and-basil)
 * [Roasted Cauliflower and Potato Wrap](https://www.pickuplimes.com/single-post/2017/08/28/Roasted-Cauliflower-Potato-Wraps)
+* [Seared Banh Minh Sandwiches](https://www.loveandlemons.com/seared-tofu-banh-mi-sandwiches/)
 * [Sichuan Bok Choy Tofu Stir Fry](https://thewanderlustkitchen.com/sichuan-bok-choy-tofu-stir-fry/)
 * [Soba Salad with Grilled Tofu](https://www.goodhousekeeping.com/food-recipes/a33581/soba-salad-with-grilled-tofu-recipe/)
 * [Spicy Kale and Coconut Fried Rice](https://cookieandkate.com/2018/spicy-kale-and-coconut-fried-rice/)
 * [Spicy Noodle Bowl](https://lifemadesimplebakes.com/2015/03/20-minute-spicy-thai-noodle-bowls/)
 * [Spicy Roasted Ratatouille](https://cookieandkate.com/2014/spicy-roasted-ratatouille-with-spaghetti/)
 * [Sticky Sesame Cauliflower](https://www.connoisseurusveg.com/sticky-sesame-cauliflower)
+* [Sweet Potato Curry](https://www.bonappetit.com/recipe/sweet-potato-curry)
 * [Thai Celery Salad](https://www.bonappetit.com/recipe/thai-celery-salad-with-peanuts)
 * [Thai Pineapple Fried Rice](https://cookieandkate.com/2015/thai-pineapple-fried-rice-recipe/)
 * [Thai Red Curry](https://cookieandkate.com/2015/thai-red-curry-recipe/)
