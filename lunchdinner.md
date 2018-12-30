@@ -47,9 +47,9 @@
 * [Udon](https://www.bonappetit.com/recipe/stir-fried-udon-with-pork)
     * calls for pork, but just replace with tofu or mushrooms
 * [Veggie Burger](https://www.delish.com/cooking/recipe-ideas/recipes/a53074/best-veggie-burger-recipe/)
+* [Veggie Burrito](https://www.thespruceeats.com/vegetarian-bean-and-rice-burrito-recipe-3378550)
 * [Veggie Lo Mein](https://www.goodhousekeeping.com/food-recipes/easy/a34238/veggie-lo-mein/)
 * [West African Peanut Soup](https://cookieandkate.com/2013/west-african-peanut-soup/)
-* 
 
 
 
