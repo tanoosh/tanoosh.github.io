@@ -19,12 +19,11 @@ To make:
 * mix together the sauce, let sit
 * wash and cut onions, garlic, and broccoli
 * cut tofu into bite sized cubes
-* heat up a large pan, once a drop of water can sizzle off in a couple seconds, drizzle 2 tsp of sesame oil *you may use more to cover the pan, but be careful because sesame oil is very strong*
+* heat up a large pan, once a drop of water can sizzle off in a couple seconds, drizzle 3 tsp of sesame oil *you may use more to cover the pan, but be careful because sesame oil is very strong*
 * drop in onions, let sit but stir occasionally  
-* after a minute, add in the garlic *i add it later because I always happen to burn minced garlic*, let sit and stir occasionally for a couple minutes 
 * after onions become translucent, add in tofu and broccoli. Stir and let sit until broccoli is cooked (about 8 min)
 * add in sauce, stir, turn heat down and let sit for a couple minutes
-* serve over rice, garnish with green onions, sesame seeds, and/or siracha
+* serve over rice/noodles, garnish with green onions, sesame seeds, and/or siracha
 
 
 Recipe altered from [here](https://www.budgetbytes.com/2016/02/pan-fried-sesame-tofu-with-broccoli/)
