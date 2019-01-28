@@ -3,8 +3,8 @@
 
 
 ## sort by
-#### [time/difficulty](tanoosh.github.io/sbdifficulty.html)
-#### [type](tanoosh.github.io/sbtype.html)
+#### [time/difficulty](tanoosh.github.io/sbdifficulty.md)
+#### [type](tanoosh.github.io/sbtype.md)
 
 
 ## all
