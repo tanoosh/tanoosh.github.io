@@ -33,6 +33,8 @@
 * [Sichuan Bok Choy Tofu Stir Fry](https://thewanderlustkitchen.com/sichuan-bok-choy-tofu-stir-fry/)
 * [Soba Salad with Grilled Tofu](https://www.goodhousekeeping.com/food-recipes/a33581/soba-salad-with-grilled-tofu-recipe/)
 * [Southwest Veggie Quesadillas] (https://gimmedelicious.com/2018/05/11/southwest-veggie-quesadillas/)
+   * Defrost corn beforehand
+   * Add lime seasoning
 * [Spicy Kale and Coconut Fried Rice](https://cookieandkate.com/2018/spicy-kale-and-coconut-fried-rice/)
 * [Spicy Noodle Bowl](https://lifemadesimplebakes.com/2015/03/20-minute-spicy-thai-noodle-bowls/)
 * [Spicy Roasted Ratatouille](https://cookieandkate.com/2014/spicy-roasted-ratatouille-with-spaghetti/)
