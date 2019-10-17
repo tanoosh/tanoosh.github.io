@@ -38,6 +38,7 @@
 * [Spicy Kale and Coconut Fried Rice](https://cookieandkate.com/2018/spicy-kale-and-coconut-fried-rice/)
 * [Spicy Noodle Bowl](https://lifemadesimplebakes.com/2015/03/20-minute-spicy-thai-noodle-bowls/)
 * [Spicy Roasted Ratatouille](https://cookieandkate.com/2014/spicy-roasted-ratatouille-with-spaghetti/)
+* [Spinach Salad](https://www.delish.com/cooking/recipe-ideas/a19695920/simple-spinach-salad-recipe/)
 * [Sticky Sesame Cauliflower](https://www.connoisseurusveg.com/sticky-sesame-cauliflower)
 * [Sweet Potato Curry](https://www.bonappetit.com/recipe/sweet-potato-curry)
 * [Thai Celery Salad](https://www.bonappetit.com/recipe/thai-celery-salad-with-peanuts)
