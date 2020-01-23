@@ -11,6 +11,7 @@
 * [Avocado Pasta](https://damndelicious.net/2014/06/20/avocado-pasta/)
 * [Asian Garlic Noodles](https://damndelicious.net/2015/12/27/asian-garlic-noodles/)
 * [Buddha Bowl in a Jar](https://www.delish.com/cooking/recipe-ideas/recipes/a51552/buddha-in-a-jar-recipe/)
+* [Broccoli Cheddar Soup](https://gimmedelicious.com/broccoli-cheddar-soup/)
 * [Cream of Mushroom Soup](tanoosh.github.io/creamofmushroomsoup.md)
 * [Chickpea Salad Wrap](https://www.brewinghappiness.com/5-minute-chickpea-salad-wraps/)
 * [Cucumber Noodles and Falafel with Tzatziki Slaw](https://sheerluxe.com/2017/01/09/cucumber-noodles-and-falafel-tzatziki-slaw?utm_source=Adestra&utm_medium=email&utm_content=TOMORROW%27S%20DESK%20LUNCH%3F&utm_campaign=HIGH%20ST%20SKI%20WEAR%20(WEDS%2011TH%20JAN%202016)&utm_term=Daily)
@@ -32,9 +33,13 @@
 * [Seared Banh Minh Sandwiches](https://www.loveandlemons.com/seared-tofu-banh-mi-sandwiches/)
 * [Sichuan Bok Choy Tofu Stir Fry](https://thewanderlustkitchen.com/sichuan-bok-choy-tofu-stir-fry/)
 * [Soba Salad with Grilled Tofu](https://www.goodhousekeeping.com/food-recipes/a33581/soba-salad-with-grilled-tofu-recipe/)
+* [Southwest Veggie Quesadillas] (https://gimmedelicious.com/2018/05/11/southwest-veggie-quesadillas/)
+   * Defrost corn beforehand
+   * Add lime seasoning
 * [Spicy Kale and Coconut Fried Rice](https://cookieandkate.com/2018/spicy-kale-and-coconut-fried-rice/)
 * [Spicy Noodle Bowl](https://lifemadesimplebakes.com/2015/03/20-minute-spicy-thai-noodle-bowls/)
 * [Spicy Roasted Ratatouille](https://cookieandkate.com/2014/spicy-roasted-ratatouille-with-spaghetti/)
+* [Spinach Salad](https://www.delish.com/cooking/recipe-ideas/a19695920/simple-spinach-salad-recipe/)
 * [Sticky Sesame Cauliflower](https://www.connoisseurusveg.com/sticky-sesame-cauliflower)
 * [Sweet Potato Curry](https://www.bonappetit.com/recipe/sweet-potato-curry)
 * [Thai Celery Salad](https://www.bonappetit.com/recipe/thai-celery-salad-with-peanuts)
