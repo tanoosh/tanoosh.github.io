@@ -1,8 +1,10 @@
 # Agent C
 ## Information
-* Alias:
-* Location:
+* Alias: Rizall Day
+* Location: Orange, CA
 
 ## Skills
+* 3D Design and Modelling
+ 
 
 
