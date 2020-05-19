@@ -2,7 +2,7 @@
 # WAST Spy Agency
 
 ## Agents
-Congrats, you found the page! More will come soon, I promise
+* Congrats, you found the page! More will come soon, I promise
 ### Agent K
 ### Agent C
 ### Agent T
