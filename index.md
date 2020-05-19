@@ -14,7 +14,7 @@ Congrats, you found the page! More will come soon, I promise
 
 [Agent A](A.md)
 
-[Agent Z](z.md)
+[Agent Z](Z.md)
 
-[Agent X](x.md)
+[Agent X](X.md)
 
