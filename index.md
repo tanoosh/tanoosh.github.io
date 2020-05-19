@@ -2,9 +2,11 @@
 # WAST Spy Agency
 
 ## Agents
-Congrats, you found the page! More will come soon, I promise<br/n>
-[Agent K](K.md)<br/n>
-[Agent C](C.md)<br/n>
+Congrats, you found the page! More will come soon, I promise  
+
+[Agent K](K.md)  
+
+[Agent C](C.md)  
 ### Agent T
 ### Agent R
 ### Agent A
