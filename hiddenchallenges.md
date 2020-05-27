@@ -1,4 +1,4 @@
-can you solve a mystery?
+can you solve some mysteries?
 
 * What has 4 legs, a mane, and is ridden?
 
