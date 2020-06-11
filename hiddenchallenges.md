@@ -8,4 +8,4 @@ can you solve some mysteries?
 
 * (not a mystery) Send to the gc how many letters are in your last name (+0.5 pts)
 
-seek and you shall find.
+one slash, nothing more, to address your answer, barring chore
