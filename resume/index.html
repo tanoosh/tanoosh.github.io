@@ -1,20 +1,11 @@
 <!doctype html>
 <html>
   <head>
-    <title>Jauhar Basrai</title>
-    <link rel="icon" href="/favicon.png?v=3" />
+    <title></title>
     <style>
-      body, h1, h2, h3, h4, ul {
+      body, h1, h2, h3, h4, h5, ul {
         margin: 0;
         padding: 0;
-      }
-
-      li > .ul2 {
-          padding-top: 4px;
-      }
-
-      .ul2 {
-          padding-left: 40px
       }
 
       body {
@@ -23,7 +14,11 @@
         font-size: 12px;
         padding: 30px;
       }
-
+      
+      p {
+        font-size: 16px;
+      }
+      
       h1, h2, h3 {
         color: #008;
         font-weight: normal;
@@ -46,6 +41,12 @@
         font-size: 16px;
         margin-bottom: 1px;
         margin-right: 7px;
+      }
+      
+      h5 {
+        font-weight: normal;
+        display: inline-block;
+        font-size: 16px;
       }
 
       img {
@@ -81,7 +82,7 @@
         justify-content: space-between;
       }
 
-      .info > *:last-child {
+      .info > *:last-child, .asdf {
         font-size: 10px;
         color: #888;
         display: flex;
@@ -106,10 +107,6 @@
         margin-bottom: 5px;
       }
 
-      .section:not(:first-child) {
-          padding-top: 5px;
-      }
-
       .item {
         margin-bottom: 4px;
       }
@@ -120,148 +117,100 @@
 
   <!-- Header -->
     <div class="info">
-      <h1>Jauhar Basrai</h1>
       <div>
-        <div>(951) 751-5623</div>
-        <div>jbasrai.jobs@gmail.com</div>
+        <h1>Diya Basrai</h1>
+        <!---
+        <div class="asdf">
+          <div>21340 Running Branch Rd</div>
+          <div>Diamond Bar, CA 91765</div>
+          <div>(Relocating to New York in January)</div>
+        </div> -->
+      </div>
+      <div>
+        <div>(951) 833 1170</div>
+        <div>diyabasrai@gmail.com</div>
         <div>
-          <a href="https://github.com/jbasrai">github.com/jbasrai</a>
+          <a href="http://dbasrai.github.io">dbasrai.github.io</a>
         </div>
+
       </div>
     </div>
 
     <hr>
-
-    <!-- Work -->
-    <div class="chunk">
-      <h2>Work</h2>
-      <div>
-
-      <!-- smash.gg -->
-      <div class="section">
-        <div class="info">
-          <div class="favicon">
-            <h3><a href="http://smash.gg/">smash.gg</a></h3>
-            <img src="./smashgg.ico" />
-          </div>
-          <div>Atlanta, GA</div>
-        </div>
-        <div class="info">
-          <h4>Software Engineer</h4>
-          <div>October 2017 - January 2019</div>
-        </div>
-        <ul>
-            <li>Worked on features for the core platform
-                <ul class="ul2">
-                    <li><a href="https://help.smash.gg/en/articles/1987877-online-event-check-in">Live event check-in</a></li>
-                    <li><a href="https://help.smash.gg/en/articles/2472270-registering-for-an-event">Tournament registration</a></li>
-                </ul>
-            </li>
-            <li>Improved internal front-end tools and build system
-                <ul class="ul2">
-                    <li>Fluxible to Redux migration (partial, deprecated in favor of Apollo/GraphQL)</li>
-                    <li><a href="./options.html">Talk on optional values</a> as a best practice</li>
-                    <li>"Hot Module Replacement" with Webpack, tightening the dev feedback loop</li>
-                    <li>Improvements to front-end build pipeline optimizing for deploy times, payload sizes, and simplifying the build config</li>
-                </ul>
-            </li>
-        </ul>
-      </div>
-
-      <!-- Turn -->
-      <div class="section">
-        <div class="info">
-          <div class="favicon">
-            <h3>Turn</h3>
-            <img src="./turn.png" />
-          </div>
-          <div>Redwood City, CA</div>
-        </div>
-        <div class="info">
-          <h4>Software Engineer, Applications</h4>
-          <div>June 2014 - June 2016</div>
-        </div>
-        <ul>
-          <li>Worked on "demand-side platform" used by marketers to manage digital ad inventory</li>
-          <li>Fixed a slow and error-prone export routine that was commonly used. Profiled the JVM to find and fix a memory leak, reducing "random" instances of server downtime.</li>
-        </ul>
-      </div>
-
-      </div>
-    </div>
-
-    <!-- Personal Projects -->
-    <div class="chunk">
-      <h2>Personal</h2>
-      <div>
-
-        <!-- NuMose -->
-        <div class="section">
-          <h3>NuMose</h3>
-          <ul>
-            <li>
-              <span>Built NuMose</span>
-              <a href="http://numose.com/search">(numose.com)</a>
-              <span>a domain-specific search engine for physicians</span>
-            </li>
-			<li>Recipient of 2019 CTSI LA BioMed Research Core Voucher Award</li>
-          </ul>
-        </div>
-
-        <!-- Secret Hitler -->
-        <div class="section">
-          <div class="favicon">
-            <h3>Secret Hitler</h3>
-            <img src="./secret-hitler.png" />
-          </div>
-          <ul>
-            <li>
-              <span>Contributor to online adaption of the social deduction game: </span>
-              <a href="https://secrethitler.io/">secrethitler.io</a>
-            </li>
-            <li>
-              <span>(</span>
-              <a href="https://github.com/cozuya/secret-hitler/pull/36">#36</a>
-              <span>) Implemented rich game log to record match data. Used for</span>
-              <a href="./player-profiles.png">player profiles</a>
-              <span>containing player-specific stats and match histories. Also used for game replays.
-            </li>
-            <li>
-              <span>(</span>
-              <a href="https://github.com/cozuya/secret-hitler/pull/110">#110</a>
-              <span>) Implemented</span>
-              <a href="./replays.gif">game replays</a>
-              <span>to play back completed games. Handy for analysis and catching cheaters!</span>
-            </li>
-          </ul>
-        </div>
-
-      </div>
-    </div>
-
-    <!-- Skills -->
-    <div class="chunk">
-      <h2>Skills</h2>
-      <div class="bold section">Javascript (ES6) - C/C++ - React - NodeJS - Webpack - Docker - Elm - Scala</div>
-    </div>
-
+    
+    <p>Researcher and comedy writer, with a love of deep-learning, one-liners, and chess. </p>
+    
+    <hr>
+      
     <!-- Education -->
     <div class="chunk">
       <h2>Education</h2>
       <div class="section">
         <div class="info">
           <div class="favicon">
-            <h3>University of California, Irvine</h3>
-            <img src="./uci.png" />
+            <h3>University of California, San Diego</h3>
+            <img src="./ucsd logo.png" />
           </div>
-          <div>Irvine, CA</div>
+          <div>San Diego, CA</div>
         </div>
         <div class="info">
-          <h4>BS in Computer Science</h4>
-          <div>September 2010 - June 2014; March 2019 - December 2019</div>
+          <h4>B.S., magna cum laude, Physiology and Neuroscience <br> GPA: 3.87/4.0</h4>
+          <div>September 2015-June 2019</div>
         </div>
+      </div>
     </div>
+            
+        <!-- Work -->
+    <div class="chunk">
+      <h2>Work</h2>
+      <div>
 
+      <!-- Tech -->
+      <div class="section">
+        <div class="info">
+          <div class="favicon">
+            <h3>Northwestern University</h3>
+            <img src="./northwestern.png" />
+          </div>
+          <div>Chicago, IL</div>
+        </div>
+        <div class="info">
+          <h4>Research Technician</h4>
+          <div>September 2020-Present</div>
+        </div>
+        <ul>
+          <li>Working on applying brain-machine interfaces to restore walking to rats with spinal cord injury, with an emphasis on decoding brain signals through deep-learning. </li>
+        </ul>
+      </div>
+
+      <div class = "section">
+        <div class="info">
+          <div class="favicon">
+            <h3>The Onion</h3>
+            <img src="./onion logo.png">
+          </div>
+          <div>Freelance</div>
+        </div>
+        <div class="info"">
+          <h4>Headline Contributor</h4>
+            <div>March 2020-Present</div>
+          </div>
+          <ul>
+                          <li>Weekly submissions of evergreen and timely <a href='../onion'>headlines</a> to <a href="https://www.theonion.com/">America's Finest News Source</a></li>
+          </ul>
+        </div>
+      </div>
+
+    </div>
+    </div>
+                                                                   <!-- Work -->
+    <div class="chunk">
+      <h2>Skills</h2>
+      <div>
+
+      <!-- TA -->
+      <div class="section">
+        <ul><h4>Python, Matlab, Rodent Work, <a href=../tape> Stand-up Comedy</a> </h4></ul>
+      </div>
   </body>
 </html>
-
