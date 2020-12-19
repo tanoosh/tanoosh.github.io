@@ -1,5 +1,5 @@
 ## WELCOME  
-Go to [/resume](tanoosh.me/resume) for resume
+Go to [tanoosh.github.io/resume](tanoosh.github.io/resume) for resume
 
 Everything is a current work in progress
 
