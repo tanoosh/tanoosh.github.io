@@ -5,8 +5,9 @@
 }
 
 head {
-	background-color: #FF900
-	color: #AAc0af
+	font-size: 35px;
+	color: #AAc0af;
+	background-color: #FF900;
 }
 
 body {
