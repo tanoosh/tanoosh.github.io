@@ -4,6 +4,11 @@
 	text-decoration: none;
 }
 
+head {
+	background-color: #FF900
+	color: #AAc0af
+}
+
 body {
 	background-color: #eee;
 }
