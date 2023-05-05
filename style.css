@@ -11,15 +11,22 @@ head {
 }
 
 body {
-	background-color: #A675A1;
 }
 
 .topnav {
+	overflow: hidden;
 	width: 100%;
 	height: 100px;
  	background-color: #E3B505;
 }
 
+.topnav a{
+	float: left;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+	font-size: 16px;
+}
 
 .topnav-right{
 	float: right;
