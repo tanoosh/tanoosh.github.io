@@ -26,38 +26,23 @@ body {
 .topnav a{
 	float: left;
 	text-align: center;
-	padding-left: 5px;
-	padding-right:5px;
+	padding-top: 50px;
+	padding-left: 7px;
+	padding-right:7px;
 }
 
 .topnav-right{
 	float: right;
 	text-align: right;
 	padding-top: 10px;
+	padding-right: 7px;
 }
 
 .main {
 	text-align:center;
 }
 
-ul {
-		
-}
 
-ul li{
-	list-style: none;
-	display: inline-block;
-	float:left;
-	line-height: 100px;	
-}
-
-ul li a{
-	display: block;
-	font-size: 14px;
-	font-family: arial;
-	padding: 0 20px;
-	color: #1e1e1e;
-}
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans+Condensed:wght@300&display=swap');
 
 
